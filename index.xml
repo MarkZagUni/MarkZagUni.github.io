@@ -29,6 +29,7 @@
         
         
           Marko Zagorsko newPage.md failas
+print(&amp;#34;Hello, World!&amp;#34;) 
           
         
         </description>
