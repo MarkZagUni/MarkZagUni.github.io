@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marko Site</title>
+    
+    
+    
+    <link>https://MarkZagUni.github.io/</link>
+    <description>Recent content on Marko Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 18:59:40 +0300</lastBuildDate>
+    
+	<atom:link href="https://MarkZagUni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markas Site</title>
+      <link>https://MarkZagUni.github.io/posts/newpage/</link>
+      <pubDate>Tue, 17 Oct 2023 18:59:40 +0300</pubDate>
+      
+      <guid>https://MarkZagUni.github.io/posts/newpage/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Marko Zagorsko newPage.md failas
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
